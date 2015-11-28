@@ -1,0 +1,9 @@
+c:\users\cedo\documents\visual studio 2012\Projects\AbrirImagen\AbrirImagen\bin\Debug\AbrirImagen.exe.config
+c:\users\cedo\documents\visual studio 2012\Projects\AbrirImagen\AbrirImagen\bin\Debug\AbrirImagen.exe
+c:\users\cedo\documents\visual studio 2012\Projects\AbrirImagen\AbrirImagen\bin\Debug\AbrirImagen.pdb
+c:\users\cedo\documents\visual studio 2012\Projects\AbrirImagen\AbrirImagen\obj\Debug\AbrirImagen.csprojResolveAssemblyReference.cache
+c:\users\cedo\documents\visual studio 2012\Projects\AbrirImagen\AbrirImagen\obj\Debug\AbrirImagen.Form1.resources
+c:\users\cedo\documents\visual studio 2012\Projects\AbrirImagen\AbrirImagen\obj\Debug\AbrirImagen.Properties.Resources.resources
+c:\users\cedo\documents\visual studio 2012\Projects\AbrirImagen\AbrirImagen\obj\Debug\AbrirImagen.csproj.GenerateResource.Cache
+c:\users\cedo\documents\visual studio 2012\Projects\AbrirImagen\AbrirImagen\obj\Debug\AbrirImagen.exe
+c:\users\cedo\documents\visual studio 2012\Projects\AbrirImagen\AbrirImagen\obj\Debug\AbrirImagen.pdb
